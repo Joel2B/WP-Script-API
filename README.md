@@ -20,6 +20,6 @@ Fill in the license field to load the configurations.
 
 ### Downloads
 Here are the plugins with the modified api.
-> [https://watchonline.nom.es/example/wp-script-api/](https://watchonline.nom.es/example/wp-script-api/)
+> [https://appsdev.cyou/wp-script-api/](https://appsdev.cyou/wp-script-api/)
  
 
